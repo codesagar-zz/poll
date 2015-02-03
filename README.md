@@ -1,2 +1,2 @@
 # poll
-A pooling application in ROR
+A polling application in ROR
